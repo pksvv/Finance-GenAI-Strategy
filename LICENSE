@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2024 Vipul
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Attribution Requirements
+
+If you use, modify, or distribute this Finance GenAI Strategy Portal:
+
+1. **Retain Attribution**: Keep the original author attribution (Vipul) in any derivative works
+2. **Credit Original Concept**: Acknowledge the original strategic framework and business vision
+3. **License Compliance**: Include this LICENSE file in any redistributions
+4. **Documentation**: Maintain references to the original business requirements and architectural design
+
+## Commercial Use
+
+This software may be used for commercial purposes under the MIT License terms, provided that:
+- Proper attribution is maintained
+- The license notice is included in all copies
+- No warranty is implied or provided
+
+## Contributing Back
+
+While not required, contributions back to the original project are welcomed and appreciated, including:
+- Enhanced business use cases
+- Additional agent implementations  
+- Improved architectural patterns
+- Enterprise compliance features
+
+For the original strategic vision and business requirements, please refer to the documentation included with this project.
