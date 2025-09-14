@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finance-genai-portal/static/css/main.aad1345e.css",
+    "main.js": "/finance-genai-portal/static/js/main.c7091b90.js",
+    "index.html": "/finance-genai-portal/index.html",
+    "main.aad1345e.css.map": "/finance-genai-portal/static/css/main.aad1345e.css.map",
+    "main.c7091b90.js.map": "/finance-genai-portal/static/js/main.c7091b90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad1345e.css",
+    "static/js/main.c7091b90.js"
+  ]
+}
