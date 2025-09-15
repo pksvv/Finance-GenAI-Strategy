@@ -62,8 +62,8 @@ const MainApplication = () => {
   // Show navigation layout for other pages
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
-      {/* Header */}
-      <header className="bg-slate-800/50 backdrop-blur-sm border-b border-slate-700/50">
+      {/* Header - Fixed */}
+      <header className="bg-slate-800/50 backdrop-blur-sm border-b border-slate-700/50 fixed top-0 left-0 right-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
@@ -80,9 +80,9 @@ const MainApplication = () => {
         </div>
       </header>
 
-      <div className="flex">
-        {/* Sidebar Navigation */}
-        <nav className="w-64 bg-slate-800/30 backdrop-blur-sm border-r border-slate-700/50 min-h-screen">
+      <div className="flex h-screen pt-16">
+        {/* Sidebar Navigation - Fixed */}
+        <nav className="w-64 bg-slate-800/30 backdrop-blur-sm border-r border-slate-700/50 h-full fixed left-0 top-16 overflow-y-auto">
           <div className="p-4">
             <ul className="space-y-2">
               {navigationItems.map((item) => (
@@ -123,8 +123,8 @@ const MainApplication = () => {
           </div>
         </nav>
 
-        {/* Main Content */}
-        <main className="flex-1 p-8">
+        {/* Main Content - Scrollable with left margin for fixed sidebar */}
+        <main className="flex-1 ml-64 p-8 h-full overflow-y-auto">
           <ErrorBoundary>
             {renderActivePage()}
           </ErrorBoundary>
