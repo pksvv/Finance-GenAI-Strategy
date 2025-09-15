@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Finance-GenAI-Strategy/static/css/main.aad1345e.css",
-    "main.js": "/Finance-GenAI-Strategy/static/js/main.4aa410e0.js",
+    "main.css": "/Finance-GenAI-Strategy/static/css/main.1cc0b086.css",
+    "main.js": "/Finance-GenAI-Strategy/static/js/main.52961765.js",
     "index.html": "/Finance-GenAI-Strategy/index.html",
-    "main.aad1345e.css.map": "/Finance-GenAI-Strategy/static/css/main.aad1345e.css.map",
-    "main.4aa410e0.js.map": "/Finance-GenAI-Strategy/static/js/main.4aa410e0.js.map"
+    "main.1cc0b086.css.map": "/Finance-GenAI-Strategy/static/css/main.1cc0b086.css.map",
+    "main.52961765.js.map": "/Finance-GenAI-Strategy/static/js/main.52961765.js.map"
   },
   "entrypoints": [
-    "static/css/main.aad1345e.css",
-    "static/js/main.4aa410e0.js"
+    "static/css/main.1cc0b086.css",
+    "static/js/main.52961765.js"
   ]
 }
